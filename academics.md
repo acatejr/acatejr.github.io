@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Academic Related Accomplishments
+title: Academics
 permalink: /academics/
 ---
+
+# Academic Related Accomplishments  
