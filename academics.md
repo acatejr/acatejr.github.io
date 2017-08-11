@@ -4,4 +4,4 @@ title: Academics
 permalink: /academics/
 ---
 
-# Academic Related Accomplishments  
+[ResearchGate](https://www.researchgate.net/profile/Averill_Cate_Jr/contributions)  
