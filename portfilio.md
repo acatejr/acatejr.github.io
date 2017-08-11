@@ -3,6 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+
 ### The University of Arizona / Arizona Geological Survey  
 GIS Feature Service Tool ![GIS Feature Service Tool]({{ site.url }}/assets/images/azgs_feature_service_tool.png)(desktop GIS application)  
 <br/>
