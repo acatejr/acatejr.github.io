@@ -5,6 +5,6 @@
 layout: page
 ---
 *Thank you for visiting my site!*  
-I am software engineer/web developer at The University of Arizona's Graduate  
-College.  You can find out more about me by visiting my work [portfolio](/portfolio)  
+I am software engineer/web developer at [The University of Arizona's Graduate  
+College.](https://grad.arizona.edu)  You can find out more about me by visiting my work [portfolio](/portfolio)  
 and [resume](/resume).  
