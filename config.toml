@@ -10,24 +10,14 @@ googleAnalytics = "UA-1064854-14"
     author = "CowboySmall"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
-
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
-
-
-
 
     [params.profile]
         enable = true
         name = "Averill Cate, Jr"
         tagline = "Senior Software Engineer"
         avatar = "avatar.png"
-
-
-
-
-
-
 
     [params.contact]
         enable = true
@@ -45,12 +35,6 @@ googleAnalytics = "UA-1064854-14"
         icon = "fas fa-globe"
         url = "#"
         text = "www.acatejr.com"
-
-
-
-
-
-
 
     [params.skills]
         enable = true
@@ -113,15 +97,7 @@ googleAnalytics = "UA-1064854-14"
         degree = "BS Surface Water Hydrology"
         university = "The Universtiy of New Hampshire"
         dates = "1983 - 1988"
-
-
-
-
-
-
-
-
-
+    
     [params.awards]
         enable = true
 
@@ -134,29 +110,12 @@ googleAnalytics = "UA-1064854-14"
         body = "Oracle Aenean"
         date = "2017"
 
-
-
-
-
-
-
-
     [params.languages]
         enable = true
 
         [[params.languages.list]]
         name = "English"
         level = "Native"
-        [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
-
-
-
-
-
-
-
 
     [params.interests]
         enable = true
