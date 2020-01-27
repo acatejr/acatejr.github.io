@@ -99,6 +99,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
+        degree = "Data Science Certificate"
+        university = "Indiana University"
+        dates = "2017 - 2018"
+        [[params.education.list]]
         degree = "PhD Natural Resources and Remote Sensing"
         university = "The University of Arizona"
         dates = "2004 - 2008"
