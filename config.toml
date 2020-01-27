@@ -164,7 +164,7 @@ googleAnalytics = "UA-1064854-14"
         [[params.interests.list]]
         name = "Golf"
         [[params.interests.list]]
-        name = "Bicycler Touring"
+        name = "Bicycle Touring"
         [[params.interests.list]]
         name = "Travel"
 
@@ -248,14 +248,6 @@ googleAnalytics = "UA-1064854-14"
         title = "Project Praesent"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-
-
-
-
-
-
-
 
 
     [params.information]
