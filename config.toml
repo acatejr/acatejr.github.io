@@ -99,9 +99,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
+        degree = "PhD Natural Resources and Remote Sensing"
+        university = "The University of Arizona"
+        dates = "2005 - 2008"
         [[params.education.list]]
         degree = "BSc Maths and Physics"
         university = "Imperial College London"
