@@ -101,11 +101,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.education.list]]
         degree = "PhD Natural Resources and Remote Sensing"
         university = "The University of Arizona"
-        dates = "2005 - 2008"
+        dates = "2004 - 2008"
         [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "MS Management Information Systems"
+        university = "The Universtiy of Arizona"
+        dates = "2002 - 2004"
+        [[params.education.list]]
+        degree = "MS Watershed Management and GIS"
+        university = "The Universtiy of Arizona"
+        dates = "1997 - 2000"
+        [[params.education.list]]
+        degree = "BS Surface Water Hydrology"
+        university = "The Universtiy of New Hampshire"
+        dates = "1983 - 1988"
+
 
 
 
