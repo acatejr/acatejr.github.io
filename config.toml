@@ -6,10 +6,6 @@ title = ""
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-1064854-14"
 
-
-
-
-
 [params]
     author = "CowboySmall"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
@@ -166,31 +162,15 @@ googleAnalytics = "UA-1064854-14"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Golf"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Bicycler Touring"
         [[params.interests.list]]
-        name = "Photography"
-        [[params.interests.list]]
-        name = "Travelling"
-
-
-
-
-
-
-
+        name = "Travel"
 
     [params.summary]
         enable = true
         text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-
-
-
-
-
-
 
     [params.experience]
         enable = true
@@ -292,30 +272,19 @@ googleAnalytics = "UA-1064854-14"
         title = "Interests"
         details = "Climbing, Snowboarding, Photography, Travelling"
 
-
-
-
-
-
-
-
     [params.social]
         enable = true
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/acatejr"
+        title = "acatejr"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/acatejr"
+        title = "acatejr"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
-
-
-
-
+        url = "//twitter.com/acatejr"
+        title = "@acatejr"
 
