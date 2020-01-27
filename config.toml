@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://www.acatejr.com/"
+baseURL = "https://www.acatejr.com/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
