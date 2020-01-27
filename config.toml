@@ -4,8 +4,7 @@ baseURL = "https://www.acatejr.com/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
-
+googleAnalytics = "UA-1064854-14"
 
 
 
