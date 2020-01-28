@@ -2,7 +2,7 @@
 
 baseURL = "https://www.acatejr.com/"
 languageCode = "en"
-title = ""
+title = "acatejr.com"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-1064854-14"
 
@@ -66,13 +66,6 @@ googleAnalytics = "UA-1064854-14"
         details = "Strong problem solver"
         [[params.skills.list.items]]
         details = "Good time management"
-
-
-
-
-
-
-
 
     [params.education]
         enable = true
@@ -180,16 +173,6 @@ googleAnalytics = "UA-1064854-14"
         company = "Startup"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
 
-
-
-
-
-
-
-
-
-
-
     [params.projects]
         enable = true
 
@@ -221,7 +204,7 @@ googleAnalytics = "UA-1064854-14"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        details = "Golf, Bicycle Touring, Travel"
 
     [params.social]
         enable = true
