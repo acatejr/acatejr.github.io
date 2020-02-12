@@ -47,6 +47,8 @@ googleAnalytics = "UA-1064854-14"
         [[params.skills.list.items]]
         details = "Python/Java/C#/PHP"
         [[params.skills.list.items]]
+        details = "Go/Hugo"
+        [[params.skills.list.items]]
         details = "Node.js/ASP.NET"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
@@ -95,7 +97,7 @@ googleAnalytics = "UA-1064854-14"
         dates = "1983 - 1988"
     
     [params.awards]
-        enable = true
+        enable = false 
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
