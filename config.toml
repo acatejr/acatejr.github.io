@@ -122,7 +122,7 @@ googleAnalytics = "UA-1064854-14"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        text = "Application Developer with more than 14 years of experience seeking a new opportunity. Educational background includes a Ph.D. in Geographic Information Science/Geoinformatics from the University of Arizona and two Master’s Degrees. Extensive experience applying new languages and/or technologies such as Drupal, Django, or CodeIgniter to environmental and/or natural-resource related projects. Well-developed skills with programming, GIS, and earth science, with a proven ability to use GIS programming tools to make earth-science data more accessible. Self-driven and motivated with a reputation for developing new ideas that benefit the organization. Driven to succeed with a track record of success delivering work that solves problem and/or saves money for the client."
 
     [params.experience]
         enable = true
