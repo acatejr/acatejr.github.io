@@ -16,8 +16,7 @@ googleAnalytics = "UA-1064854-14"
     [params.profile]
         enable = true
         name = "Averill Cate, Jr"
-        tagline = "Senior Software Engineer"
-        avatar = "avatar.png"
+        tagline = "Senior Software Engineer"        
 
     [params.contact]
         enable = true
