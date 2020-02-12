@@ -128,7 +128,7 @@ googleAnalytics = "UA-1064854-14"
 
         [[params.experience.list]]
         title = "Principal Applications Systems Analyst/Developer"
-        dates = "2016 - Present"
+        dates = "1997 - Present"
         company = "The University of Arizoan"
         details = "Developed programmed and maintained multiple intranet web-based applications used to support departmental business operations."
         [[params.experience.list.items]]
