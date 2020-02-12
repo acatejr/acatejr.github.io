@@ -129,7 +129,7 @@ googleAnalytics = "UA-1064854-14"
         [[params.experience.list]]
         title = "Principal Applications Systems Analyst/Developer"
         dates = "1997 - Present"
-        company = "The University of Arizoan"
+        company = "The University of Arizona"
         details = "Developed programmed and maintained multiple intranet web-based applications used to support departmental business operations."
         [[params.experience.list.items]]
         details = "Developed Oracle, SQL Server and MySQL databases for desktop and web applications"
@@ -163,14 +163,18 @@ googleAnalytics = "UA-1064854-14"
         details = "Developed a desktop GIS application called GeoFac used to browse, search, and display via maps U.S. Census information."
 
         [[params.experience.list]]
-        title = "Lead Software Developer"
-        dates = "2016 - 2019"
-        company = "Apple"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        title = "Software Engineer"
+        dates = "2012 - 2015"
+        company = "The City of Tucson, AZ"
+        details = "Responsible for maintenance of existing software applications as well as the development of new applications"
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Developed and programmed and maintained multiple intranet web-based applications used to support City of Tucson daily business operations."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Developed Oracle, SQL Server and MySQL databases for desktop and web applications"
+        [[params.experience.list.items]]
+        details = "Developed open-data REST based web-API feeds as part of City of Tucson's open data initiative."
+        [[params.experience.list.items]]
+        details = "Developed web application for tracking and monitoring of the City's residential and commercial permitting system"
 
         [[params.experience.list]]
         title = "Senior Software Developer"
