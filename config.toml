@@ -127,7 +127,7 @@ googleAnalytics = "UA-1064854-14"
 
     [params.summary]
         enable = true
-        text = "Application Developer with more than 14 years of experience seeking a new opportunity. Educational background includes a Ph.D. in Geographic Information Science/Geoinformatics from the University of Arizona and two Master’s Degrees. Extensive experience applying new languages and/or technologies such as Drupal, Django, or CodeIgniter to environmental and/or natural-resource related projects. Well-developed skills with programming, GIS, and earth science, with a proven ability to use GIS programming tools to make earth-science data more accessible. Self-driven and motivated with a reputation for developing new ideas that benefit the organization. Driven to succeed with a track record of success delivering work that solves problem and/or saves money for the client."
+        text = "Application Developer with more than 18 years of experience seeking a new opportunity. Educational background includes a Ph.D. in Geographic Information Science/Geoinformatics from the University of Arizona and two Master’s Degrees. Extensive experience applying new languages and/or technologies such as Drupal, Django, or CodeIgniter to environmental and/or natural-resource related projects. Well-developed skills with programming, GIS, and earth science, with a proven ability to use GIS programming tools to make earth-science data more accessible. Self-driven and motivated with a reputation for developing new ideas that benefit the organization. Driven to succeed with a track record of success delivering work that solves problem and/or saves money for the client."
 
     [params.experience]
         enable = true
