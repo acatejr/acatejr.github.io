@@ -41,13 +41,15 @@ googleAnalytics = "UA-1064854-14"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "JavaScript/Angular/React/Vue/jQuery"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "Python/Java/C#/PHP"
         [[params.skills.list.items]]
         details = "Node.js/ASP.NET"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
+        [[params.skills.list.items]]
+        details = "ArcView/ArcGIS"
         [[params.skills.list.items]]
         details = "Object-oriented design"
         [[params.skills.list.items]]
@@ -198,19 +200,19 @@ googleAnalytics = "UA-1064854-14"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
+        title = "DotAGWA"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        tagline = ""
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "Farmer's Edge"
+        meta = "Proprietary"
+        tagline = ""
 
         [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "City of Tucson's Property Research Online"
+        meta = "Proprietary"
+        tagline = ""
 
 
     [params.information]
