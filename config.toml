@@ -128,16 +128,40 @@ googleAnalytics = "UA-1064854-14"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        title = "Principal Applications Systems Analyst/Developer"
+        dates = "2016 - Present"
+        company = "The University of Arizoan"
+        details = "Developed programmed and maintained multiple intranet web-based applications used to support departmental business operations."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Developed Oracle, SQL Server and MySQL databases for desktop and web applications"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Developed and programmed a website called AZ REACH (www.reachmilitaryfamilies.org)."
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "Performed custom Drupal theming and custom module development; custom theming involves modifying CSS files and creating and editing images for the site using Photoshop."
+        [[params.experience.list.items]]
+        details = "Developed Drupal modules that required writing PHP code that integrates with the Drupal framework."
+        [[params.experience.list.items]]
+        details = "Developed and programmed custom Drupal modules that focus on building search tools for the website. Example: One module shows an image of the United States and users can pick a state, degree program, and major, and the search will find schools or training programs for the field the user is interested in for the selected state or states."
+        [[params.experience.list.items]]
+        details = "Created other research documents that are connected to the searchable metadata stored in the sites MySQL database."
+        [[params.experience.list.items]]
+        details = "Used HTML and CSS to implement new look and feel of website design."
+        [[params.experience.list.items]]
+        details = "Enabled website research document searching through metadata stored in the site's MySQL database."
+        [[params.experience.list.items]]
+        details = "Developed and program a custom research document module using Drupal’s PHP API so that site users could search documents based on different attributes associated with each document."
+        [[params.experience.list.items]]
+        details = "Programmed professional development learning modules that allowed site visitors to read online training materials and take online quizzes."
+        [[params.experience.list.items]]
+        details = "Created and presented research presentations for conferences in water resources, GIS, and natural resources."
+        [[params.experience.list.items]]
+        details = "Developed DotAGWA, a web application using C#.Net, Java/J2EE, ESRI’s ArcGIS Server, Oracle Database and the Oracle Database spatial components."
+        [[params.experience.list.items]]
+        details = "Wrote and published research papers published in the Natural Resources Conservation Service scientific publication database."
+        [[params.experience.list.items]]
+        details = "Designed and developed the Santa Rita Experimental Range study and document search interface."
+        [[params.experience.list.items]]
+        details = "Developed a desktop GIS application called GeoFac used to browse, search, and display via maps U.S. Census information."
 
         [[params.experience.list]]
         title = "Lead Software Developer"
