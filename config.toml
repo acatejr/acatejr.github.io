@@ -178,27 +178,21 @@ googleAnalytics = "UA-1064854-14"
 
         [[params.experience.list]]
         title = "Senior Software Developer"
-        dates = "2014 - 2016"
-        company = "Dropbox"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        dates = "2009 - 2015"
+        company = "Blue Earth Imaging"
+        details = "Developed application using Python and the Python-based framework called Django, a MySQL database and the Google Maps JavaScript API."
 
         [[params.experience.list]]
-        title = "Senior Developer"
-        dates = "2013 - 2014"
-        company = "Uber"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
-
-        [[params.experience.list]]
-        title = "Backend Developer"
-        dates = "2014 - 2016"
-        company = "Amazon"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.experience.list]]
-        title = "Frontend Developer"
-        dates = "2013 - 2014"
-        company = "Startup"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        title = "Senior GIS Analyst"
+        dates = "1999 - 2001"
+        company = "Scientific Technologies Corporation"
+        details = "Responsible for formatting analyzing and geo-processing spatial data."
+        [[params.experience.list.items]]
+        details = "Developed prototype desktop GIS application that was used to track disease vector outbreaks in NY City."
+        [[params.experience.list.items]]
+        details = "Developed desktop GIS application used in grant proposal for modified E-911 (Enhanced 911) research grant.  The application demonstrated how GIS could be used to help improve the 911 systems."
+        [[params.experience.list.items]]
+        details = "Developed a map interface for the tracking and surveillance of mosquito and pest outbreaks for the government of Bermuda; allowed health inspectors to zoom into a location on a map, and enter mosquito monitoring data; used HTML, CSS, JavaScript and the JavaScript API provided with ESRI’s ArcIMS internet map server software."
 
     [params.projects]
         enable = true
