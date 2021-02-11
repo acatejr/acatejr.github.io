@@ -222,12 +222,12 @@ googleAnalytics = "UA-1064854-14"
     [params.information]
         enable = true
 
-        [[params.information.list]]
-        title = "Papers"
-        [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
-        [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
+        # [[params.information.list]]
+        # title = "Papers"
+        # [[params.information.list.items]]
+        # details = "2018 · Lorem Ipsum"
+        # [[params.information.list.items]]
+        # details = "2016 · Sed Fringilla"
 
         [[params.information.list]]
         title = "Interests"
