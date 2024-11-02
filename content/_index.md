@@ -2,4 +2,4 @@
 title: Home
 ---
 
-[Hi!](/resume)
+[Hi!](/resume)  
