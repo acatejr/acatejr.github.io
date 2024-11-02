@@ -1,0 +1,168 @@
+{
+    "education": [
+        {
+            "school": "The University of Arizona, Tucson, AZ",
+            "program": "School of Renewable Natural Resources",
+            "graduation": "May 2008",
+            "degree": "Ph.D. in Renewable Natural Resources and Remote Sensing"
+        },
+        {
+            "school": "The University of Arizona, Tucson, AZ",
+            "program": "The Eller College of Management - Management Information Systems",
+            "graduation": "May 2003",
+            "degree": "M.S. in Management Information Systems"
+        },
+        {
+            "school": "The University of Arizona, Tucson, AZ",
+            "program": "School of Renewable Natural Resources",
+            "graduation": "May 2000",
+            "degree": "M.S. in Watershed Management and Geographic Information Systems"
+        },
+        {
+            "school": "The University of New Hampshire, Durham, NH",
+            "program": "College of Agriculture",
+            "graduation": "May 1988",
+            "degree": "B.S. in Surface Water Hydrology"
+        }
+    ],
+
+    "jobs": [
+        {
+            "employer": "The University of Arizona",
+            "title": "Data Architect - The School of Information",
+            "duration": "2024 - Present",
+            "accomplishments": [
+                "Co-lead initiative to develop a data catalog for the United States Forest Service",
+                "Investigated existing USFS data sources for the catalog",
+                "Investigated metadata standards for the catalog (e.g., ISO-19115, DCAT)",
+                "Developed plan for data catalog software needs"
+            ]
+        },
+        {
+            "employer": "The University of Arizona",
+            "title": "Integration Engineer - University Information Technology Services",
+            "duration": "2021 - 2024",
+            "accomplishments": [
+                "Boomi and StreamSets pipeline development",
+                "Python ETL development",
+                "Developed MySQL databases in AWS used to cache data",
+                "Developed REST API for sharing student mealplan financial data",
+                "Developed REACT interface for uploading CSV files",
+                "Supervised student workers"
+            ]
+        },
+        {
+            "employer": "The University of Arizona",
+            "title": "Software Engineer - University Graduate College",
+            "duration": "2016 - 2021",
+            "accomplishments": [
+                "Used PHP and CakePHP to support an exsiting graduate college application website",
+                "Developed MySQL databases",
+                "Helped manage and maintain Drupal websites",
+                "Used Docker to create a development stack that mirrored productions sytems",
+                "Supervised student workers"
+            ]
+        },
+        {
+            "employer": "Scientific Technologies Corp.",
+            "title": "Software Engineer",
+            "duration": "2015 - 2016",
+            "accomplishments": [
+                "Developed a health survey system for a network of hospitals",
+                "Django, MySQL and Angular, AWS"
+            ]
+        },
+        {
+            "employer": "The City of Tucson, Tucson, AZ",
+            "title": "Software Engineer - SC",
+            "duration": "2012 - 2015",
+            "accomplishments": [
+                "Developed, programmed and maintained multiple intranet web-based applications used to support daily business operations",
+                "Developed Oracle, SQL Server and MySQL databases for desktop and web applications",
+                "Developed open-data REST based web-API feeds as part of City of Tucson's open data initiative",
+                "Developed web application allowing Tucson business community to estimate zoning development fees"
+            ]
+        },
+        {
+            "employer": "Blue Earth Imaging, Tucson, AZ",
+            "title": "Web Application Developer",
+            "duration": "2009 - 2012",
+            "accomplishments": [
+                "Developed company web app using Python and the Django framework, a MySQL database and the Google Maps JavaScript API"
+            ]
+        },
+        {
+            "employer": "Earth Knowledge, Tucson, AZ",
+            "title": "GIS Developer/Senior Analyst",
+            "duration": "2008 - 2009",
+            "accomplishments": [
+                "Developed a PHP/CodeIgniter application, an environmental news RSS feed reading and mapping web application"
+            ]
+        },
+        {
+            "employer": "The University of Arizona, Tucson, AZ",
+            "title": "GIS Developer/Senior Analyst",
+            "duration": "2001 - 2008",
+            "accomplishments": [
+                "Created and presented research presentations for conferences in water resources, GIS, and natural resources",
+                "Developed DotAGWA, a web application using C#.Net, Java/J2EE, ESRI’s ArcGIS Server, Oracle Database and the Oracle Database spatial components",
+                "Wrote and published research papers published in the Natural Resources Conservation Service scientific publication database",
+                "Designed and developed the Santa Rita Experimental Range study and document search interface"
+            ]
+        },
+        {
+            "employer": "Scientific Technologies Corp., Tucson, AZ",
+            "title": "Senior GIS Analyst",
+            "duration": "1999 - 2001",
+            "accomplishments": [
+                "Developed prototype desktop GIS application that was used to track disease vector outbreaks in NY City",
+                "Developed desktop GIS application used in grant proposal for modified E-911 (Enhanced 911) research grant. The application demonstrated how GIS could be used to help improve the 911 systems",
+                "Developed a map interface for the tracking and surveillance of mosquito and pest outbreaks for the government of Bermuda; allowed health inspectors to zoom into a location on a map, and enter mosquito monitoring data; used HTML, CSS, JavaScript and the JavaScript API provided with ESRI’s ArcIMS internet map server software"
+            ]
+        },
+        {
+            "employer": "The University of Arizona, Tucson, AZ",
+            "title": "Research Associate/Programmer",
+            "duration": "1997 - 2000",
+            "accomplishments": [
+                "Developed a desktop GIS application called GeoFac used to browse, search, and display via maps U.S. Census information"
+            ]
+        },
+        {
+            "employer": "Errol L. Montgomery and Associates, Tucson, AZ",
+            "title": "Systems Administrator",
+            "duration": "1993 - 1997",
+            "accomplishments": [
+                "Managed small peer-to-peer network",
+                "PC maintenance and service",
+                "Database programming projects",
+                "Assissted in processing data for graphs used in client reports and developed the graphs"
+            ]
+        },
+        {
+            "employer": "Thermo Consulting Engineers, Concord, NH",
+            "title": "Hydrologist",
+            "duration": "1990 - 1992",
+            "accomplishments": [
+                "Worked on several EPA superfund sites",
+                "Groundwater and surface water sample colleciton",
+                "Soil sample colleciton",
+                "Environment report preparation",
+                "Assissted in processing data for graphs used in client reports and developed the graphs"
+            ]
+        },
+        {
+            "employer": "State of NH Dept. of Environmental Services, Concord, NH",
+            "title": "Hydrologist - Groundwater Protection Bureau",
+            "duration": "1988 - 1990",
+            "accomplishments": [
+                "Worked on several EPA superfund sites",
+                "Groundwater and surface water sample colleciton",
+                "Soil sample colleciton",
+                "Environment report preparation",
+                "Assissted in processing data for graphs used in client reports and developed the graphs"
+            ]
+        }
+
+    ]
+}

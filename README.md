@@ -1,6 +1,10 @@
 # acatejr.github.io  
 
 ## Resources  
+
+https://cloudcannon.com/tutorials/hugo-beginner-tutorial/layouts-in-hugo/
+
+
 Congratulations! Your new Hugo site was created in /home/acatejr/Documents/workspace/github.com/acatejr/acatejr.github.io.
 
 Just a few more steps...
