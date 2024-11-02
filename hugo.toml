@@ -1,0 +1,4 @@
+baseURL = 'https://acatejr.com/'
+languageCode = 'en-us'
+title = 'acatejr.com'
+theme = 'base'
