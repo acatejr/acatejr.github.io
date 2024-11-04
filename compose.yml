@@ -1,0 +1,14 @@
+
+services:
+
+  hugo:
+    image: hugomods/hugo
+    ports:
+      - 1313:1313
+    volumes:
+      - ${PWD}:/src
+    stdin_open: true
+    tty: true
+    command: "hugo server -D --bind=0.0.0.0"
+
+# docker run -it -p 1313:1313 -v ${PWD}:/src hugomods/hugo sh
