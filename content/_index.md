@@ -2,5 +2,5 @@
 title: Home
 ---
 
-[Hi!](/resume)  
+[Resume](/resume)  
 [Portfolio](/portfolio)
